@@ -19,6 +19,14 @@ from a friendly, safe and welcoming environment. This includes but is not
 limited to use of overtly sexual, vulgar or otherwise offensive nicknames or
 avatar images.
 
+Please avoid excessive helping. Excessive helping is defined as providing help
+that was not asked for. If someone asks a question, be sure that you're
+providing the help that was requested and not providing information beyond the
+scope of the question. Never talk down to anyone. Allow the person asking the
+question to drive the conversation. If you feel the need to "take the keyboard
+away" from the person requesting assistance, reconsider how you're trying to
+answer. If you're doing all the talking, you might be excessively helping.
+
 Examples of behavior that contributes to creating a positive environment
 include:
 
@@ -36,6 +44,7 @@ Examples of unacceptable behavior by participants include:
   advances
 * The use of inappropriate images in a user's avatar or inappropriate nicknames
 * Any spamming, flaming, baiting or other attention-stealing behavior
+* Excessive helping
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
@@ -70,7 +79,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported in the following ways. You may send a message to all Community Helpers
 by tagging Community Helpers (@community helpers), or you may send a message to
 @kattni#1507, @tannewt#4653, @Dan Halbert#1614, or @cater#2442. You may also
-send an email to [Adafruit Support](support@adafruit.com). All complaints will
+send an email to <support@adafruit.com>. All complaints will
 be reviewed and investigated and will result in a response that is deemed
 necessary and appropriate to the circumstances. The moderation team is
 obligated to maintain confidentiality with regard to the reporter of an
@@ -124,5 +133,5 @@ be eager to assume good intent and forgive as long as you earn their trust.
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 1.4, available at
-<https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>, 
+<https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>,
 and the [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html).

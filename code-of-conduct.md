@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Adafruit Discord Code of Conduct
 
 ## Our Pledge
 
@@ -11,9 +11,19 @@ religion, or sexual identity and orientation.
 
 ## Our Standards
 
+We are committed to providing a friendly, safe and welcoming environment for
+all.
+
+On Discord, please avoid using nicknames or avatar images that might detract
+from a friendly, safe and welcoming environment. This includes but is not
+limited to use of overtly sexual, vulgar or otherwise offensive nicknames or
+avatar images.
+
 Examples of behavior that contributes to creating a positive environment
 include:
 
+* Be kind and courteous to others
+* Behaving professionally
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
@@ -24,6 +34,8 @@ Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
   advances
+* The use of inappropriate images in a user's avatar or inappropriate nicknames
+* Any spamming, flaming, baiting or other attention-stealing behavior
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
@@ -55,19 +67,62 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [INSERT EMAIL ADDRESS]. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+reported in the following ways. You may send a message to all Community Helpers
+by tagging Community Helpers (@community helpers), or you may send a message to
+@kattni#1507, @tannewt#4653, @Dan Halbert#1614, or @cater#2442. You may also
+send an email to [Adafruit Support](support@adafruit.com). All complaints will
+be reviewed and investigated and will result in a response that is deemed
+necessary and appropriate to the circumstances. The moderation team is
+obligated to maintain confidentiality with regard to the reporter of an
+incident. Be aware, if you send a message in an open channel, your report will
+not be anonymous. In situations where the issue is particularly egregious,
+requires immediate action, and no moderators are available, you can also report
+the message directly to Discord.
 
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+Further details of specific enforcement policies are outlined in the
+Moderation section.
+
+## Moderation
+
+These are the policies for upholding our community’s standards of conduct.
+
+1. Messages, nicknames and avatar images that violate the Adafruit Discord
+standards of conduct, including anything hateful, hurtful, oppressive,
+or exclusionary, are not allowed.
+2. Messages, nicknames and avatar images that moderators find inappropriate,
+whether listed in the code of conduct or not, are also not allowed.
+3. Moderators will first respond to such messages, nicknames and avatar images
+with a warning. How you respond to the warning is important to the next set of
+steps.
+4. We have a "three strikes" policy - we are willing to give you two chances
+to change your behavior.
+5.  If you are receptive to the warning and change your behavior, nickname
+or avatar image accordingly, you will be given another chance.
+6. If the warning is unheeded, the user will be “kicked,” i.e., kicked out of
+the communication channel to cool off.
+7. If the user comes back and continues the behavior, they will be banned,
+i.e., indefinitely excluded.
+8. If the behavior is an egregious violation, the user may be banned
+immediately, without warning.
+
+Don’t just aim to be technically unimpeachable, try to be your best self. In
+particular, avoid flirting with offensive or sensitive issues, particularly if
+they’re off-topic; this all too often leads to unnecessary fights, hurt
+feelings, and damaged trust; worse, it can drive people away from the community
+entirely.
+
+If someone takes issue with something you said or did, resist the urge to
+be defensive. Just stop doing what it was they complained about and apologize.
+Even if you feel you were misinterpreted or unfairly accused, chances are good
+there was something you could’ve communicated better — remember that it’s your
+responsibility to make your fellow Adafruit Discord community members
+comfortable. Everyone wants to get along and we are all here first and foremost
+because we want to talk about cool technology. You will find that people will
+be eager to assume good intent and forgive as long as you earn their trust.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-
-[homepage]: https://www.contributor-covenant.org
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 1.4, available at
+<https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>, 
+and the [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html).

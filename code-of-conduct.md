@@ -97,7 +97,7 @@ with a warning.
 4. We have a soft "three strikes" policy - we are willing to give you two more
 chances to change your behavior. However, how you respond to the warning is 
 important - it will determine whether we give you further chances.
-5.  If you are receptive to the warning and change your behavior, nickname
+5. If you are receptive to the warning and change your behavior, nickname
 or avatar image accordingly, you will be given another chance.
 6. If the warning is unheeded, the user will be “kicked,” i.e., kicked out of
 the communication channel to cool off.

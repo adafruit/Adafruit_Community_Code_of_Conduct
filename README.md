@@ -1,1 +1,1 @@
-# Adafruit_Discord_Code_of_Conduct
+# Adafruit CircuitPython Code of Conduct

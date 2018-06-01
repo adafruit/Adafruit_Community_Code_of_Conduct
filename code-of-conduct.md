@@ -14,20 +14,20 @@ race, religion, or sexual identity and orientation.
 We are committed to providing a friendly, safe and welcoming environment for
 all.
 
-On the Adafruit Discord server, please avoid using nicknames or avatar images 
-that might detract from a friendly, safe and welcoming environment. This 
-includes but is not limited to use of overtly sexual, vulgar, or otherwise 
+On the Adafruit Discord server, please avoid using nicknames or avatar images
+that might detract from a friendly, safe and welcoming environment. This
+includes but is not limited to use of overtly sexual, vulgar, or otherwise
 offensive nicknames or avatar images.
 
 Please avoid excessive helping. Excessive helping is defined as providing help
 that was not asked for. If someone asks a question, be sure that you're
 providing the help that was requested and not providing unnecessary information
 beyond the scope of the question. Allow the person asking the question to drive
-the conversation. Ask the person to clarify if you're unsure what they are 
+the conversation. Ask the person to clarify if you're unsure what they are
 asking, instead of providing an answer that covers the question *you think*
 they're trying to ask. If you feel the need to "take the keyboard away" from
 the person requesting assistance, reconsider how you're trying to answer. If
-you're doing all the talking, you may be excessively helping. 
+you're doing all the talking, you may be excessively helping.
 
 Examples of behavior that contributes to creating a positive environment
 include:
@@ -63,7 +63,7 @@ response to any instances of unacceptable behavior.
 Project maintainers have the right and responsibility to remove, edit, or
 reject messages, comments, commits, code, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any community member for other behaviors that they deem 
+permanently any community member for other behaviors that they deem
 inappropriate, threatening, offensive, or harmful.
 
 ## Enforcement
@@ -72,7 +72,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported in the following ways. You may send an open message from any channel
 to all Community Helpers by tagging @community helpers. You may send an open
 message from any channel or a direct message to @kattni#1507, @tannewt#4653,
-@Dan Halbert#1614, @cater#2442, sommersoft#0222, or @Andon#8175. You may 
+@Dan Halbert#1614, @cater#2442, sommersoft#0222, or @Andon#8175. You may
 also send an email to <support@adafruit.com>. All complaints will
 be reviewed and investigated, and will result in a response that is deemed
 necessary and appropriate to the circumstances. The moderation team is
@@ -89,16 +89,16 @@ Moderation section.
 
 These are the policies for upholding our community’s standards of conduct.
 
-1. Messages, comments, nicknames or avatar images that violate the Adafruit 
-CircuitPython standards of conduct, including anything hateful, hurtful, 
+1. Messages, comments, nicknames or avatar images that violate the Adafruit
+CircuitPython standards of conduct, including anything hateful, hurtful,
 oppressive, or exclusionary, are not allowed.
-2. Messages, comments, nicknames or avatar images that moderators find 
-inappropriate, whether listed in the code of conduct or not, are also not 
+2. Messages, comments, nicknames or avatar images that moderators find
+inappropriate, whether listed in the code of conduct or not, are also not
 allowed.
 3. Moderators will first respond to such behavior with a warning.
 4. We have a soft "three strikes" policy - we are willing to give the user two
-more chances to change your behavior. However, how the user respond to the 
-warning is important - it will determine whether or not the user receives 
+more chances to change your behavior. However, how the user respond to the
+warning is important - it will determine whether or not the user receives
 further chances.
 5. If you are receptive to the warning and change your behavior, nickname
 or avatar image accordingly, you will be given another chance.
@@ -128,10 +128,15 @@ comfortable. Everyone wants to get along and we are all here first and foremost
 because we want to talk about cool technology. You will find that people will
 be eager to assume good intent and forgive as long as you earn their trust.
 
+We value many things beyond technical expertise, including collaboration and
+supporting others within our community. Providing a positive experience for
+other community members can have a much more significant impact than simply
+providing the correct answer.
+
 ## Scope
 
-This Code of Conduct and the enforcement policies listed above apply to all 
-official CircuitPython venues. This includes but is not limited to any 
+This Code of Conduct and the enforcement policies listed above apply to all
+official CircuitPython venues. This includes but is not limited to any
 official CircuitPython spaces (both public and private), the entire Adafruit
 Discord server, and CircuitPython GitHub repositories under Adafruit. Examples
 of official CircuitPython spaces include meet-ups, audio chats on the Adafruit
@@ -142,7 +147,7 @@ when an individual is representing the project or its community. As a community
 member, you are representing our community, and are expected to behave
 accordingly. Examples of representing a project or community include using
 an official project e-mail address, posting via an official social media
-account, or acting as an appointed representative at an online or offline event. 
+account, or acting as an appointed representative at an online or offline event.
 Representation of a project may be further defined and clarified by project
 maintainers.
 
@@ -153,8 +158,8 @@ version 1.4, available at
 <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>,
 and the [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html).
 
-For other projects adopting the Adafruit CircuitPython Community Code of 
-Conduct, please contact the maintainers of those projects for enforcement. 
+For other projects adopting the Adafruit CircuitPython Community Code of
+Conduct, please contact the maintainers of those projects for enforcement.
 If you wish to use this code of conduct for your own project, consider
 explicitly mentioning your moderation policy or making a copy with your
 own moderation policy so as to avoid confusion.

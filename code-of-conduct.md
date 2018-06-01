@@ -16,7 +16,7 @@ all.
 
 On the Adafruit Discord server, please avoid using nicknames or avatar images 
 that might detract from a friendly, safe and welcoming environment. This 
-includes but is not limited to use of overtly sexual, vulgar or otherwise 
+includes but is not limited to use of overtly sexual, vulgar, or otherwise 
 offensive nicknames or avatar images.
 
 Please avoid excessive helping. Excessive helping is defined as providing help
@@ -24,10 +24,10 @@ that was not asked for. If someone asks a question, be sure that you're
 providing the help that was requested and not providing unnecessary information
 beyond the scope of the question. Allow the person asking the question to drive
 the conversation. Ask the person to clarify if you're unsure what they are 
-asking, instead of providing an answer that covers what *you think* they're
-trying to ask. If you feel the need to "take the keyboard away" from the person
-requesting assistance, reconsider how you're trying to answer. If you're doing
-all the talking, you may be excessively helping. 
+asking, instead of providing an answer that covers the question *you think*
+they're trying to ask. If you feel the need to "take the keyboard away" from
+the person requesting assistance, reconsider how you're trying to answer. If
+you're doing all the talking, you may be excessively helping. 
 
 Examples of behavior that contributes to creating a positive environment
 include:
@@ -61,7 +61,7 @@ behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
 Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
+reject messages, comments, commits, code, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any community member for other behaviors that they deem 
 inappropriate, threatening, offensive, or harmful.
@@ -122,8 +122,8 @@ Worse, it can drive people away from the community entirely.
 If someone takes issue with something you said or did, resist the urge to
 be defensive. Just stop doing what it was they complained about and apologize.
 Even if you feel you were misinterpreted or unfairly accused, chances are good
-there was something you could’ve communicated better — remember that it’s your
-responsibility to make your fellow Adafruit Discord community members
+there was something you could’ve communicated differently — remember that it’s
+your responsibility to make your fellow Adafruit CircuitPython community members
 comfortable. Everyone wants to get along and we are all here first and foremost
 because we want to talk about cool technology. You will find that people will
 be eager to assume good intent and forgive as long as you earn their trust.
@@ -131,19 +131,20 @@ be eager to assume good intent and forgive as long as you earn their trust.
 ## Scope
 
 This Code of Conduct and the enforcement policies listed above apply to all 
-official CircuitPython 
-venues. This includes but is not limited to any official CircuitPython spaces,
-the entire Adafruit Discord server, and CircuitPython GitHub repositories under
-Adafruit. Examples of official CircuitPython spaces include (but are not
-limited to) things like meetups, audio chats on the Adafruit Discord, or 
-interaction at a conference.
+official CircuitPython venues. This includes but is not limited to any 
+official CircuitPython spaces (both public and private), the entire Adafruit
+Discord server, and CircuitPython GitHub repositories under Adafruit. Examples
+of official CircuitPython spaces include meet-ups, audio chats on the Adafruit
+Discord, or interaction at a conference.
 
 This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+when an individual is representing the project or its community. As a community
+member, you are representing our community, and are expected to behave
+accordingly. Examples of representing a project or community include using
+an official project e-mail address, posting via an official social media
+account, or acting as an appointed representative at an online or offline event. 
+Representation of a project may be further defined and clarified by project
+maintainers.
 
 ## Attribution
 

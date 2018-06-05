@@ -14,45 +14,35 @@ race, religion, or sexual identity and orientation.
 We are committed to providing a friendly, safe and welcoming environment for
 all.
 
-On the Adafruit Discord server, please avoid using nicknames or avatar images
-that might detract from a friendly, safe and welcoming environment. This
-includes but is not limited to use of overtly sexual, vulgar, or otherwise
-offensive nicknames or avatar images.
-
-Please avoid excessive helping. Excessive helping is defined as providing help
-that was not asked for. If someone asks a question, be sure that you're
-providing the help that was requested and not providing unnecessary information
-beyond the scope of the question. Allow the person asking the question to drive
-the conversation. Ask the person to clarify if you're unsure what they are
-asking, instead of providing an answer that covers the question *you think*
-they're trying to ask. If you feel the need to "take the keyboard away" from
-the person requesting assistance, reconsider how you're trying to answer. If
-you're doing all the talking, you may be excessively helping.
-
 Examples of behavior that contributes to creating a positive environment
 include:
 
 * Be kind and courteous to others
-* Behaving professionally
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
+* Collaborating with other community members
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
-* The use of inappropriate images in a user's avatar or inappropriate nicknames
+* The use of sexualized language or imagery and sexual attention or advances
+* The use of inappropriate images, including in a user's avatar
+* The use of inappropriate language, including in a user's nickname
 * Any spamming, flaming, baiting or other attention-stealing behavior
-* Excessive helping
+* Excessive or unwelcome helping; answering outside the scope of the question
+  asked
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* Other conduct which could reasonably be considered inappropriate
+
+We value many things beyond technical expertise, including collaboration and
+supporting others within our community. Providing a positive experience for
+other community members can have a much more significant impact than simply
+providing the correct answer.
 
 ## Our Responsibilities
 
@@ -66,42 +56,39 @@ that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any community member for other behaviors that they deem
 inappropriate, threatening, offensive, or harmful.
 
-## Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported in the following ways. You may send an open message from any channel
-to all Community Helpers by tagging @community helpers. You may send an open
-message from any channel or a direct message to @kattni#1507, @tannewt#4653,
-@Dan Halbert#1614, @cater#2442, sommersoft#0222, or @Andon#8175. You may
-also send an email to <support@adafruit.com>. All complaints will
-be reviewed and investigated, and will result in a response that is deemed
-necessary and appropriate to the circumstances. The moderation team is
-obligated to maintain confidentiality with regard to the reporter of an
-incident. Be aware, if you send a message in an open channel, your report will
-not be anonymous. In situations where the issue is particularly egregious,
-requires immediate action, and no moderators are available, you can also report
-the message directly to Discord.
-
-Further details of specific enforcement policies are outlined in the
-Moderation section.
-
 ## Moderation
 
-These are the policies for upholding our community’s standards of conduct.
+Instances of behaviors that violate the Adafruit CircuitPython Code of Conduct
+may be reported by any member of the community. Community members are
+encouraged to report these situations, including situations they witness
+involving other community members.
 
-1. Messages, comments, nicknames or avatar images that violate the Adafruit
-CircuitPython standards of conduct, including anything hateful, hurtful,
-oppressive, or exclusionary, are not allowed.
-2. Messages, comments, nicknames or avatar images that moderators find
-inappropriate, whether listed in the code of conduct or not, are also not
-allowed.
+You may report in the following ways:
+
+In any situation, you may send an email to <support@adafruit.com>.
+
+On the Adafruit Discord, you may send an open message from any channel
+to all Community Helpers by tagging @community helpers. You may also send an
+open message from any channel or a direct message to @kattni#1507, 
+@tannewt#4653, @Dan Halbert#1614, @cater#2442, @sommersoft#0222, or @Andon#8175.
+
+In situations on Discord where the issue is particularly egregious, requires
+immediate action, and no moderators are available, you can also report the
+message directly to Discord.
+
+These are the steps for upholding our community’s standards of conduct.
+
+1. Any member of the community may report any situation that violates the
+Adafruit CircuitPython Code of Conduct.
+2. All reports will be reviewed and investigated, and will result in a response
+that is deemed necessary and appropriate to the circumstances.
 3. Moderators will first respond to such behavior with a warning.
-4. We have a soft "three strikes" policy - we are willing to give the user two
+4. We have a soft "three strikes" policy - we are willing to give a user two
 more chances to change your behavior. However, how the user respond to the
 warning is important - it will determine whether or not the user receives
 further chances.
-5. If you are receptive to the warning and change your behavior, nickname
-or avatar image accordingly, you will be given another chance.
+5. If the user is receptive to the warning and change your behavior, nickname
+or avatar image accordingly, they will be given another chance.
 6. If the warning is unheeded, the user will be “kicked,” i.e., kicked out of
 the communication channel to cool off.
 7. If the user returns and continues the behavior, they will be banned,
@@ -128,28 +115,19 @@ comfortable. Everyone wants to get along and we are all here first and foremost
 because we want to talk about cool technology. You will find that people will
 be eager to assume good intent and forgive as long as you earn their trust.
 
-We value many things beyond technical expertise, including collaboration and
-supporting others within our community. Providing a positive experience for
-other community members can have a much more significant impact than simply
-providing the correct answer.
-
 ## Scope
 
 This Code of Conduct and the enforcement policies listed above apply to all
-official CircuitPython venues. This includes but is not limited to any
-official CircuitPython spaces (both public and private), the entire Adafruit
-Discord server, and CircuitPython GitHub repositories under Adafruit. Examples
-of official CircuitPython spaces include meet-ups, audio chats on the Adafruit
+CircuitPython venues. This includes but is not limited to any CircuitPython 
+spaces (both public and private), the entire Adafruit Discord server, and 
+CircuitPython GitHub repositories under Adafruit. Examples of CircuitPython
+spaces include but are not limited to meet-ups, audio chats on the Adafruit
 Discord, or interaction at a conference.
 
 This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community. As a community
 member, you are representing our community, and are expected to behave
-accordingly. Examples of representing a project or community include using
-an official project e-mail address, posting via an official social media
-account, or acting as an appointed representative at an online or offline event.
-Representation of a project may be further defined and clarified by project
-maintainers.
+accordingly.
 
 ## Attribution
 

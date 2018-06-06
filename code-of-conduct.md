@@ -39,6 +39,10 @@ Examples of unacceptable behavior by participants include:
   address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate
 
+The goal of the standards and moderation guidelines outlined here is to build
+and maintain a respectful community. We ask that you don’t just aim to be
+"technically unimpeachable", but rather try to be your best self. 
+
 We value many things beyond technical expertise, including collaboration and
 supporting others within our community. Providing a positive experience for
 other community members can have a much more significant impact than simply
@@ -72,48 +76,27 @@ to all Community Helpers by tagging @community helpers. You may also send an
 open message from any channel or a direct message to @kattni#1507, 
 @tannewt#4653, @Dan Halbert#1614, @cater#2442, @sommersoft#0222, or @Andon#8175.
 
-In situations on Discord where the issue is particularly egregious, requires
-immediate action, and no moderators are available, you can also report the
-message directly to Discord.
+In situations on Discord where the issue is particularly egregious, possibly
+illegal, requires immediate action or violates the Discord terms of service,
+you should also report the message directly to Discord.
 
 These are the steps for upholding our community’s standards of conduct.
 
 1. Any member of the community may report any situation that violates the
-Adafruit CircuitPython Code of Conduct.
-2. All reports will be reviewed and investigated, and will result in a response
-that is deemed necessary and appropriate to the circumstances.
-3. Moderators will first respond to such behavior with a warning.
-4. We have a soft "three strikes" policy - we are willing to give a user two
-more chances to change your behavior. However, how the user respond to the
+Adafruit CircuitPython Code of Conduct. All reports will be reviewed and 
+investigated, and will result in a response that is deemed necessary and 
+appropriate to the circumstances.
+2. Moderators will first respond to such behavior with a warning.
+3. We have a soft "three strikes" policy - we are willing to give a user the
+chance to change their behavior. However, how the user respond to the
 warning is important - it will determine whether or not the user receives
 further chances.
-5. If the user is receptive to the warning and change your behavior, nickname
-or avatar image accordingly, they will be given another chance.
-6. If the warning is unheeded, the user will be “kicked,” i.e., kicked out of
-the communication channel to cool off.
-7. If the user returns and continues the behavior, they will be banned,
-i.e., indefinitely excluded.
-8. If the user is unreceptive or unreasonable when warned by a moderator,
-they may be banned for a first or second offense.
-9. If the behavior is an egregious violation, the user may be banned
+4. If the user is receptive to the warning and changes their behavior, they 
+will be given another chance.
+5. If the user is unreceptive or unreasonable when warned by a moderator, or
+the warning goes unheeded, they may be banned for a first or second offense.
+6. If the behavior is an egregious violation, the user may be banned
 immediately, without warning.
-
-The goal of the standards and moderation guidelines outlined above is to build
-and maintain a respectful community. We ask that you don’t just aim to be
-"technically unimpeachable", but rather try to be your best self. In
-particular, avoid offensive or sensitive issues, particularly if they’re
-off-topic to the channel or discussion. This all too often leads to unnecessary
-fights, perceptions or instances of disrespect, and damaged community trust.
-Worse, it can drive people away from the community entirely.
-
-If someone takes issue with something you said or did, resist the urge to
-be defensive. Just stop doing what it was they complained about and apologize.
-Even if you feel you were misinterpreted or unfairly accused, chances are good
-there was something you could’ve communicated differently — remember that it’s
-your responsibility to make your fellow Adafruit CircuitPython community members
-comfortable. Everyone wants to get along and we are all here first and foremost
-because we want to talk about cool technology. You will find that people will
-be eager to assume good intent and forgive as long as you earn their trust.
 
 ## Scope
 

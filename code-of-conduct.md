@@ -3,7 +3,7 @@
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
+contributors and leaders pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, gender identity and expression, level or type of
 experience, education, socio-economic status, nationality, personal appearance,
@@ -28,8 +28,8 @@ include:
 Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery and sexual attention or advances
-* The use of inappropriate images, including in a user's avatar
-* The use of inappropriate language, including in a user's nickname
+* The use of inappropriate images, including in a community member's avatar
+* The use of inappropriate language, including in a community member's nickname
 * Any spamming, flaming, baiting or other attention-stealing behavior
 * Excessive or unwelcome helping; answering outside the scope of the question
   asked
@@ -50,11 +50,11 @@ providing the correct answer.
 
 ## Our Responsibilities
 
-Project maintainers are responsible for clarifying the standards of acceptable
+Project leaders are responsible for clarifying the standards of acceptable
 behavior and are expected to take appropriate and fair corrective action in
 response to any instances of unacceptable behavior.
 
-Project maintainers have the right and responsibility to remove, edit, or
+Project leaders have the right and responsibility to remove, edit, or
 reject messages, comments, commits, code, issues, and other contributions
 that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any community member for other behaviors that they deem
@@ -83,20 +83,18 @@ you should also report the message directly to Discord.
 These are the steps for upholding our community’s standards of conduct.
 
 1. Any member of the community may report any situation that violates the
-Adafruit CircuitPython Code of Conduct. All reports will be reviewed and 
-investigated, and will result in a response that is deemed necessary and 
-appropriate to the circumstances.
-2. Moderators will first respond to such behavior with a warning.
-3. We have a soft "three strikes" policy - we are willing to give a user the
-chance to change their behavior. However, how the user respond to the
-warning is important - it will determine whether or not the user receives
-further chances.
-4. If the user is receptive to the warning and changes their behavior, they 
-will be given another chance.
-5. If the user is unreceptive or unreasonable when warned by a moderator, or
-the warning goes unheeded, they may be banned for a first or second offense.
-6. If the behavior is an egregious violation, the user may be banned
-immediately, without warning.
+Adafruit CircuitPython Code of Conduct. All reports will be reviewed and
+investigated.
+2. If the behavior is an egregious violation, the community member who
+committed the violation may be banned immediately, without warning.
+3. Otherwise, moderators will first respond to such behavior with a warning.
+4. Moderators follow a soft "three strikes" policy - the community member may
+be given another chance, if they are receptive to the warning and change their
+behavior.
+5. If the community member is unreceptive or unreasonable when warned by a
+moderator, or the warning goes unheeded, they may be banned for a first or
+second offense. Repeated offenses will result in the community member being
+banned.
 
 ## Scope
 

@@ -96,11 +96,6 @@ moderator, or the warning goes unheeded, they may be banned for a first or
 second offense. Repeated offenses will result in the community member being
 banned.
 
-We value many things beyond technical expertise, including collaboration and
-supporting others within our community. Providing a positive experience for
-other community members can have a much more significant impact than simply
-providing the correct answer.
-
 ## Scope
 
 This Code of Conduct and the enforcement policies listed above apply to all

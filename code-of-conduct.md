@@ -1,4 +1,4 @@
-# Adafruit CircuitPython Community Code of Conduct
+# Adafruit Community Code of Conduct
 
 ## Our Pledge
 
@@ -62,7 +62,7 @@ inappropriate, threatening, offensive, or harmful.
 
 ## Moderation
 
-Instances of behaviors that violate the Adafruit CircuitPython Code of Conduct
+Instances of behaviors that violate the Adafruit Community Code of Conduct
 may be reported by any member of the community. Community members are
 encouraged to report these situations, including situations they witness
 involving other community members.
@@ -73,17 +73,20 @@ In any situation, you may send an email to <support@adafruit.com>.
 
 On the Adafruit Discord, you may send an open message from any channel
 to all Community Helpers by tagging @community helpers. You may also send an
-open message from any channel or a direct message to @kattni#1507, 
-@tannewt#4653, @Dan Halbert#1614, @cater#2442, @sommersoft#0222, or @Andon#8175.
+open message from any channel, or a direct message to @kattni#1507,
+@tannewt#4653, @Dan Halbert#1614, @cater#2442, @sommersoft#0222, or
+@Andon#8175.
+
+Email and direct message reports will be kept confidential.
 
 In situations on Discord where the issue is particularly egregious, possibly
-illegal, requires immediate action or violates the Discord terms of service,
+illegal, requires immediate action, or violates the Discord terms of service,
 you should also report the message directly to Discord.
 
 These are the steps for upholding our community’s standards of conduct.
 
 1. Any member of the community may report any situation that violates the
-Adafruit CircuitPython Code of Conduct. All reports will be reviewed and
+Adafruit Community Code of Conduct. All reports will be reviewed and
 investigated.
 2. If the behavior is an egregious violation, the community member who
 committed the violation may be banned immediately, without warning.
@@ -99,11 +102,11 @@ banned.
 ## Scope
 
 This Code of Conduct and the enforcement policies listed above apply to all
-CircuitPython venues. This includes but is not limited to any CircuitPython 
-spaces (both public and private), the entire Adafruit Discord server, and 
-CircuitPython GitHub repositories under Adafruit. Examples of CircuitPython
-spaces include but are not limited to meet-ups, audio chats on the Adafruit
-Discord, or interaction at a conference.
+Adafruit Community venues. This includes but is not limited to any community
+spaces (both public and private), the entire Adafruit Discord server, and
+Adafruit GitHub repositories. Examples of Adafruit Community spaces include
+but are not limited to meet-ups, audio chats on the Adafruit Discord, or
+interaction at a conference.
 
 This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community. As a community

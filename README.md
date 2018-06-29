@@ -1,1 +1,1 @@
-# Adafruit CircuitPython Code of Conduct
+# Adafruit Community Code of Conduct

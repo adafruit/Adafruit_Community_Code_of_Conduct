@@ -120,7 +120,7 @@ version 1.4, available at
 <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>,
 and the [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html).
 
-For other projects adopting the Adafruit CircuitPython Community Code of
+For other projects adopting the Adafruit Community Code of
 Conduct, please contact the maintainers of those projects for enforcement.
 If you wish to use this code of conduct for your own project, consider
 explicitly mentioning your moderation policy or making a copy with your

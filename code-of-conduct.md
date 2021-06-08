@@ -1,6 +1,6 @@
 <!--
 SPDX-FileCopyrightText: 2014 Coraline Ada Ehmke
-SPDX-FileCopyrightText: 2019 Kattni Rembor for Adafruit Industries
+SPDX-FileCopyrightText: 2019-2021 Kattni Rembor for Adafruit Industries
 
 SPDX-License-Identifier: CC-BY-4.0
 -->
@@ -77,7 +77,7 @@ involving other community members.
 
 You may report in the following ways:
 
-In any situation, you may send an email to <support@adafruit.com>.
+In any situation, you may email <support@adafruit.com>.
 
 On the Adafruit Discord, you may send an open message from any channel
 to all Community Moderators by tagging @community moderators. You may
@@ -93,18 +93,24 @@ you should also report the message directly to Discord.
 These are the steps for upholding our community’s standards of conduct.
 
 1. Any member of the community may report any situation that violates the
-Adafruit Community Code of Conduct. All reports will be reviewed and
-investigated.
+   Adafruit Community Code of Conduct. All reports will be reviewed and
+   investigated.
 2. If the behavior is an egregious violation, the community member who
-committed the violation may be banned immediately, without warning.
+   committed the violation may be banned immediately, without warning.
 3. Otherwise, moderators will first respond to such behavior with a warning.
 4. Moderators follow a soft "three strikes" policy - the community member may
-be given another chance, if they are receptive to the warning and change their
-behavior.
+   be given another chance, if they are receptive to the warning and change their
+   behavior.
 5. If the community member is unreceptive or unreasonable when warned by a
-moderator, or the warning goes unheeded, they may be banned for a first or
-second offense. Repeated offenses will result in the community member being
-banned.
+   moderator, or the warning goes unheeded, they may be banned for a first or
+   second offense. Repeated offenses will result in the community member being
+   banned.
+6. Disciplinary actions (warnings, bans, etc) for Code of Conduct violations apply
+   to the platform where the violation occurred. However, depending on the severity
+   of the violation, the disciplinary action may be applied across Adafruit's other
+   community platforms. For example, a severe violation on the Adafruit Discord
+   server may result in a ban on not only the Adafruit Discord server, but also on
+   the Adafruit GitHub organisation, Adafruit Forums, Adafruit Twitter, etc.
 
 ## Scope
 

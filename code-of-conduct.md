@@ -39,6 +39,8 @@ Examples of unacceptable behavior by participants include:
 * Any spamming, flaming, baiting or other attention-stealing behavior
 * Excessive or unwelcome helping; answering outside the scope of the question
   asked
+* Discussion or promotion of activities or projects that intend or pose a risk of 
+  significant harm
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Promoting or spreading disinformation, lies, or conspiracy theories against
   a person, group, organisation, project, or community
@@ -128,9 +130,8 @@ accordingly.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 1.4, available at
-<https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>,
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/),
+version 1.4, available on [contributor-covenant.org](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html),
 and the [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html).
 
 For other projects adopting the Adafruit Community Code of

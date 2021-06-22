@@ -97,7 +97,7 @@ These are the steps for upholding our community’s standards of conduct.
 1. Any member of the community may report any situation that violates the
    Adafruit Community Code of Conduct. All reports will be reviewed and
    investigated.
-2. If the behavior is an egregious violation, the community member who
+2. If the behavior is a severe violation, the community member who
    committed the violation may be banned immediately, without warning.
 3. Otherwise, moderators will first respond to such behavior with a warning.
 4. Moderators follow a soft "three strikes" policy - the community member may

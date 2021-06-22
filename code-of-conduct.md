@@ -88,7 +88,7 @@ any Community Moderator.
 
 Email and direct message reports will be kept confidential.
 
-In situations on Discord where the issue is particularly egregious, possibly
+In situations on Discord where the issue is particularly offensive, possibly
 illegal, requires immediate action, or violates the Discord terms of service,
 you should also report the message directly to [Discord](https://discord.com/safety).
 

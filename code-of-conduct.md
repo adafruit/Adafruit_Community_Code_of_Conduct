@@ -28,7 +28,7 @@ include:
 * Being respectful of differing viewpoints and experiences
 * Collaborating with other community members
 * Providing desired assistance and knowledge to other community members
-* Remaining open to new information and ideas
+* Being open to new information and ideas
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
 * Showing empathy towards other community members

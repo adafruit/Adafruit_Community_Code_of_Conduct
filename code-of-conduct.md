@@ -25,6 +25,8 @@ include:
 
 * Be kind and courteous to others
 * Using welcoming and inclusive language
+* Respecting the identity of every community member, including asking for their
+  pronouns if uncertain
 * Being respectful of differing viewpoints and experiences
 * Collaborating with other community members
 * Providing desired assistance and knowledge to other community members
@@ -43,9 +45,6 @@ Examples of unacceptable behavior by community members include:
   asked
 * Discussion or promotion of activities or projects that intend or pose a risk of 
   significant harm
-* Any discussion regarding religion and related topics
-* Discussion of politics and related topics, unless otherwise specific to 
-  electronics or technology
 * Trolling, insulting/derogatory comments, and attacks of any nature (including,
   but not limited to, personal or political attacks)
 * Promoting or spreading disinformation, lies, or conspiracy theories against
@@ -53,7 +52,19 @@ Examples of unacceptable behavior by community members include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission
+* Engaging in behavior that creates an unwelcoming or uninclusive environment
 * Other conduct which could reasonably be considered inappropriate
+
+The Adafruit Community welcomes everyone and strives to create a safe space for all. It is built
+around sharing and contributing to technology. We encourage discussing your thoughts, experiences,
+and feelings within the scope of the community. However, there are topics that can sometimes stray
+from that scope, and can lead to hurting others and create an unwelcoming, uninclusive environment.
+
+Examples of discussion topics that have been known to stray outside the scope of the Adafruit
+Community include, but are not limited to:
+
+* Discussions regarding religion and related topics
+* Discussions regarding politics and related topics
 
 The goal of the standards and moderation guidelines outlined here is to build
 and maintain a respectful community. We ask that you don’t just aim to be

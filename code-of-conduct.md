@@ -39,7 +39,7 @@ Examples of unacceptable behavior by community members include:
 
 * The use of sexualized language or imagery and sexual attention or advances
 * The use of inappropriate images, including in a community member's avatar
-* The use of inappropriate language, including in a community member's nickname
+* The use of inappropriate language or profanity, including in a community member's nickname
 * Any spamming, flaming, baiting or other attention-stealing behavior
 * Excessive or unwelcome helping; answering outside the scope of the question
   asked
